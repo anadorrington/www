@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">    <url>
-        <loc>https://anadorrington.co.nz/</loc>
-    </url>    <url>
-        <loc>https://anadorrington.co.nz/about-me</loc>
-    </url>    <url>
-        <loc>https://anadorrington.co.nz/consultations</loc>
-    </url>    <url>
-        <loc>https://anadorrington.co.nz/contact-me</loc>
-    </url>    <url>
-        <loc>https://anadorrington.co.nz/events</loc>
-    </url>    <url>
-        <loc>https://anadorrington.co.nz/nz-essences</loc>
-    </url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://anadorrington.co.nz/</loc>
+    </url>
+    <url>
+        <loc>http://anadorrington.co.nz/about-me/</loc>
+    </url>
+    <url>
+        <loc>http://anadorrington.co.nz/consultations/</loc>
+    </url>
+    <url>
+        <loc>http://anadorrington.co.nz/nz-essences/</loc>
+    </url>
+    <url>
+        <loc>http://anadorrington.co.nz/events/</loc>
+    </url>
+    <url>
+        <loc>http://anadorrington.co.nz/contact-me/</loc>
+    </url>
+</urlset>
