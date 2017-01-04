@@ -1,1 +1,0 @@
-"use strict";ready(function(){document.querySelector("[data-currentyear]").innerHTML=""+(new Date).getFullYear()});function ready(fn){if(document.readyState!="loading"){fn()}else if(document.addEventListener){document.addEventListener("DOMContentLoaded",fn)}else{document.attachEvent("onreadystatechange",function(){if(document.readyState!="loading")fn()})}}
