@@ -4,7 +4,7 @@
     "theme_color": "#311803",
     "background_color": "#ffffff",
     "display": "browser",
-    "start_url": "https://anadorrington.co.nz",
+    "start_url": "//anadorrington.co.nz",
     "icons": [
         {
             "src": "/apple-touch-icon-72x72-precomposed.png",
